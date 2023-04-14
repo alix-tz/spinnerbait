@@ -1,4 +1,4 @@
-# Spinnerbaits
+# Spinnerbait
 
 ## Cleaning script
 
